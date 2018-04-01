@@ -9,4 +9,13 @@ PKU-Reid dataset: This dataset contains 114 individuals including 1824 images ca
 
 The image name is in the form "personId_cameraId_orientationId.png".
 
-If you use this dataset please cite: @inproceedings{OBoA, author = {Liqian Ma, Hong Liu, Liang Hu, Can Wang, Qianru Sun}, title = {Orientation driven 360 degree Body-Structure based Feature Representation for Person Re-identification}, booktitle = {}, volume = {}, number = {}, year = , month = , pages = {}, address = {}, organization={IEEE} }
+
+## Citation
+```
+@article{ma2016orientation,
+  title={Orientation driven bag of appearances for person re-identification},
+  author={Ma, Liqian and Liu, Hong and Hu, Liang and Wang, Can and Sun, Qianru},
+  journal={arXiv preprint arXiv:1605.02464},
+  year={2016}
+}
+```
